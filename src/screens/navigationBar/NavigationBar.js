@@ -1,7 +1,7 @@
 import React from "react";
 
 function NavigationBar() {
-  return <div></div>;
+  return <div>navigation</div>;
 }
 
 export default NavigationBar;
