@@ -11,9 +11,11 @@ function AboutMe() {
       <div className="about__text">
         <h1>ABOUT ME</h1>
         <p>
-          I started my coding coding journey in mid 2021 via a full stack
-          bootcamp at University of Birmingham. Problem solving and creative
-          projects are my biggest interests in this field.
+          I started my coding journey in mid 2021 and keep building on my
+          skills. I love problem solving and also enjoy the creative side of
+          coding. You can see more of my work on {""}
+          <a href="https://github.com/mz0121coder">GitHub</a> and {""}
+          <a href="https://github.com/mz0121coder">LinkedIn</a>.
         </p>
       </div>
     </div>
