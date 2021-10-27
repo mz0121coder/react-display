@@ -32,15 +32,23 @@ function Portfolio() {
         </Modal.Body>
         <a
           id="portfolio__modal__link"
-          href={data.link}
+          href={data.github}
           target="_blank"
           rel="noreferrer"
         >
-          Go to site
+          GitHub
+        </a>
+        <a
+          id="portfolio__modal__link"
+          href={data.live}
+          target="_blank"
+          rel="noreferrer"
+        >
+          Live
         </a>
         <Modal.Footer>
           <div>Technologies used: </div>
-          <p style={{ fontSize: "0.7rem", marginRight: "auto" }}>{data.tech}</p>
+          <p style={{ fontSize: "1rem", marginRight: "auto" }}>{data.tech}</p>
           <Button onClick={() => setModalShow(false)}>Close</Button>
         </Modal.Footer>
       </Modal>
@@ -55,7 +63,8 @@ function Portfolio() {
           onClick={() => {
             setTempData({
               image: e.image,
-              link: e.link,
+              github: e.github,
+              live: e.live,
               desc: e.desc,
               summary: e.summary,
               tech: e.tech,
