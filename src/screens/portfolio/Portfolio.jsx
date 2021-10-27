@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import "./portfolio.css";
-import portfolioData from "../../helpers/portfolioData";
+import projects from "../../helpers/projects";
 import Container from "react-bootstrap/Container";
 import Row from "react-bootstrap/Row";
 import Card from "react-bootstrap/Card";
@@ -47,7 +47,7 @@ function Portfolio() {
     );
   }
 
-  const mapped = portfolioData.map((e, idx) => {
+  const mapped = projects.map((e, idx) => {
     return (
       <Card key={idx} id="portfolio__card__container">
         <Image
