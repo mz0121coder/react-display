@@ -18,7 +18,7 @@ For this project I used [Create React App](https://github.com/facebook/create-re
 
 [Devicon-react-svg](https://www.npmjs.com/package/devicon-react-svg) - rendering inline SVG icons to represent technologoies.
 
-## Instructions
+## Instructions
 
 To run app locally:
 
@@ -27,7 +27,7 @@ To run app locally:
    ![dependencies](./src/images/dependencies.png)
 3. Run `npm start` to start the server on `localhost:3000`.
 
-## Screenshots
+## Screenshots
 
 ![screenshot-1](./src/images/screenshot-1.png)
 ![screenshot-2](./src/images/screenshot-2.png)
