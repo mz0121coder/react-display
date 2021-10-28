@@ -17,7 +17,7 @@ function App() {
         background={{ r: 1, g: 50, b: 67, a: 1 }}
         particleSpeed={0.1}
         particleRadius={1.5}
-        color={{ r: 158, g: 217, b: 249, a: 255 }}
+        color={{ r: 255, g: 255, b: 0, a: 255 }}
       />
       <AboutMe />
       <Technologies />
