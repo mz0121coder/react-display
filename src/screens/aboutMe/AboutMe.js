@@ -27,7 +27,10 @@ function AboutMe() {
           .
         </p>
         <p>
-          <a href="MOHAMMAD S. ZAFAR RESUME.pdf" target="_blank">
+          <a
+            href="https://drive.google.com/file/d/1nizZ__xPKMwGDOs5guHD4AO5yVokkkjM/view?usp=sharing"
+            target="_blank"
+          >
             View CV/Resume
           </a>
         </p>
