@@ -14,11 +14,22 @@ function AboutMe() {
           I started my coding journey in mid 2021 and keep building on my
           skills. I love problem solving and also enjoy the creative side of
           coding. You can see more of my work on {""}
-          <a href="https://github.com/mz0121coder/">GitHub</a> and {""}
-          <a href="https://www.linkedin.com/in/mohammad-zafar-218579218/">
+          <a href="https://github.com/mz0121coder/" target="_blank">
+            GitHub
+          </a>{" "}
+          and {""}
+          <a
+            href="https://www.linkedin.com/in/mohammad-zafar-218579218/"
+            target="_blank"
+          >
             LinkedIn
           </a>
           .
+        </p>
+        <p>
+          <a href="MOHAMMAD S. ZAFAR RESUME.pdf" target="_blank">
+            View CV/Resume
+          </a>
         </p>
       </div>
     </div>
