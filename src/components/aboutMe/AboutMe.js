@@ -28,7 +28,7 @@ function AboutMe() {
         </p>
         <p>
           <a
-            href="https://drive.google.com/file/d/1nizZ__xPKMwGDOs5guHD4AO5yVokkkjM/view?usp=sharing"
+            href="https://drive.google.com/file/d/1UApy3px3u2JwYv4j1MG_V8ojoYk8746T/view?usp=sharing"
             target="_blank"
           >
             View CV/Resume
