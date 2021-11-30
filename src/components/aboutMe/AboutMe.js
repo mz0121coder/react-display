@@ -11,9 +11,13 @@ function AboutMe() {
       <div className="about__text">
         <h1>ABOUT ME</h1>
         <p>
-          I started my coding journey in mid 2021 and keep building on my
-          skills. I love problem solving and also enjoy the creative side of
-          coding. You can see more of my work on {""}
+          Frontend developer, leveraging background in Economics to analyse &
+          solve problems. Earned a certificate from the University of Birmingham
+          Coding and Web Development Boot Camp. Continually building proficiency
+          in JavaScript, frameworks such as React, and databases including
+          MongoDB. Target driven and motivated to learn new technologies.
+          Passionate about creating aesthetic, user-friendly applications in an
+          agile, collaborative environment. You can see more of my work on {""}
           <a href="https://github.com/mz0121coder/" target="_blank">
             GitHub
           </a>{" "}
@@ -28,7 +32,7 @@ function AboutMe() {
         </p>
         <p>
           <a
-            href="https://drive.google.com/file/d/1UApy3px3u2JwYv4j1MG_V8ojoYk8746T/view?usp=sharing"
+            href="https://drive.google.com/file/d/1UnTKydu2_AUJQFAv2amt-GNWSF811tDx/view?usp=sharing"
             target="_blank"
           >
             View CV/Resume
