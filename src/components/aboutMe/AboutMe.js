@@ -32,7 +32,7 @@ function AboutMe() {
         </p>
         <p>
           <a
-            href="https://drive.google.com/file/d/1UnTKydu2_AUJQFAv2amt-GNWSF811tDx/view?usp=sharing"
+            href="https://drive.google.com/file/d/12EmcgHhDbyfshOq5Gwcv24RbN7_8hgyz/view?usp=sharing"
             target="_blank"
           >
             View CV/Resume

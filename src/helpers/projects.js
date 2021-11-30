@@ -2,7 +2,7 @@
 
 import trainingJournal from "../images/training-journal.png";
 import engineerPathways from "../images/eps-screenshot.png";
-import ecomServer from "../images/ecommerce.png";
+import ecn from "../images/ecn.png";
 import takeNotes from "../images/take-notes.png";
 import checkWeather from "../images/check-the-weather.png";
 import createPassword from "../images/create-a-password.png";
@@ -10,6 +10,14 @@ import planner from "../images/plan-your-day.png";
 import quiz from "../images/quiz.png";
 
 const projects = [
+  {
+    image: ecn,
+    github: "https://github.com/mz0121coder/elite-coding-network",
+    live: "https://elite-coding-network.herokuapp.com",
+    desc: "Elite Coding Network",
+    summary: "Social network for alumni of coding bootcamps",
+    tech: "MERN | Nodemailer | Cloudinary",
+  },
   {
     image: trainingJournal,
     github: "https://github.com/mz0121coder/Training-Journal",
@@ -25,13 +33,6 @@ const projects = [
     desc: "Engineer Pathways",
     summary: "Full stack team manager application",
     tech: "Node.js | Handlebars.js | MySQL",
-  },
-  {
-    image: ecomServer,
-    github: "https://github.com/mz0121coder/Ecommerce-server",
-    desc: "Ecommerce Server",
-    summary: "Building the back-end for an ecommerce site",
-    tech: "Node.js | Express | Insomnia",
   },
   {
     image: takeNotes,
